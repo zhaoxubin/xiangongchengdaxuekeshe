@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Epidemic_maven/Epidemic_maven.iml" filepath="$PROJECT_DIR$/Epidemic_maven/Epidemic_maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Epidemic_web/Epidemic_web.iml" filepath="$PROJECT_DIR$/Epidemic_web/Epidemic_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVASE/JAVASE.iml" filepath="$PROJECT_DIR$/JAVASE/JAVASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVASE/JAVAWEB.iml" filepath="$PROJECT_DIR$/JAVASE/JAVAWEB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaTest/javaTest.iml" filepath="$PROJECT_DIR$/javaTest/javaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaxuexi/javaxuexi.iml" filepath="$PROJECT_DIR$/javaxuexi/javaxuexi.iml" />
+    </modules>
+  </component>
+</project>

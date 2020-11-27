@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Epidemic_maven:war">
+    <output-path>$PROJECT_DIR$/Epidemic_maven/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Epidemic_maven</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Epidemic_maven-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Epidemic_maven:war exploded" />
+    </root>
+  </artifact>
+</component>
